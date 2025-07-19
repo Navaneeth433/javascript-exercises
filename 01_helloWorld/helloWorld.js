@@ -2,4 +2,4 @@ const helloWorld = function() {
   return 'Hello, World!'
 };
 
-module.exports = helloworld;
+module.exports = helloWorld;
